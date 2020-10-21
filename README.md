@@ -2,7 +2,7 @@
 
 An interactive comic.
 
-[Github code link](github.com/ishmalkhalid/FinalMomentsComic); [live demo link](ishmalkhalid.github.io/FinalMomentsComic)
+[Github code link](https://github.com/ishmalkhalid/FinalMomentsComic); [live demo link](https://ishmalkhalid.github.io/FinalMomentsComic)
 
 Last Moments is an audiovisual exploration of the fleeting and delicate nature of life. The story follows 3 characters having their last-ever interactions with an unnamed protagonist, while completely unaware of this fact. The comic's serious and reflective nature asks the reader to contemplate the abruptness with which life can end, and perhaps gain a greater appreciation for it as a result.
 
